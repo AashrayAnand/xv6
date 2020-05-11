@@ -10,9 +10,13 @@ implementing core OS abstractions (e.g. threading/virtual memory/file system
 etc.) on top of xv6. Some of the resources I have studied include
 
 [Operating Systems: 3 Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 [xv6 manual](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
+
 [OS Dev wiki](https://wiki.osdev.org/Expanded_Main_Page)
+
 [Broken Thorn OS Dev Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+
 
 ## Progress
 
