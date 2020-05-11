@@ -18,23 +18,23 @@ Progress
 
 1. first system call (sys_count)
 
-* reviewed entire process of executing a system call (OSTEP chapters 4-6)
-* studied xv6 system call implementation (xv6 manual chapters 0,1,3)
-* completed on 5/10/2020
+  * reviewed entire process of executing a system call (OSTEP chapters 4-6)
+  * studied xv6 system call implementation (xv6 manual chapters 0,1,3)
+  * completed on 5/10/2020
 
 2. lottery scheduler
 
-* TODO
+  * TODO
 
 3. kernel threads
 
-* TODO
+  * TODO
 
 4. virtual memory
 
-* TODO
+  * TODO
 
 5. file system
 
-*TODO
+  * TODO
 
