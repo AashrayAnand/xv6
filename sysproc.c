@@ -7,6 +7,9 @@
 #include "mmu.h"
 #include "proc.h"
 
+// counter variable for total number of syscalls made
+int syscall_count = 0;
+
 int
 sys_fork(void)
 {
@@ -34,6 +37,12 @@ sys_kill(void)
   if(argint(0, &pid) < 0)
     return -1;
   return kill(pid);
+}
+
+int
+sys_count(void)
+{
+  return syscall_count;
 }
 
 int
