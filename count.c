@@ -5,7 +5,7 @@
 int 
 main(int argc, char *argv[])
 {
-    int syscount = count();
+    int syscount = getreadcount();
     printf(1, "%d\n", syscount);
     exit();
 }
