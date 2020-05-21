@@ -40,7 +40,7 @@ sys_kill(void)
 }
 
 int
-sys_count(void)
+sys_getreadcount(void)
 {
   return syscall_count;
 }
